@@ -7,21 +7,17 @@ Example screenshots are below to show content
 
 ### Simple landing page
 
-[]: ./images/landing-page.png
-
-
+![landing-page](./images/landing-page.PNG)
 
 ### Example Query
 
-[]: ./images/example-query.png
+![example-query](./images/example-query.PNG)
 
 
 
 ### Example Query NA
 
-[]: ./images/example-failed.png
-
-
+![failed](./images/example-failed.PNG)
 
 ## MySQL World App
 
