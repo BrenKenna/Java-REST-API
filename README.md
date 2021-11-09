@@ -7,19 +7,19 @@ Example screenshots are below to show content
 
 ### Simple landing page
 
-[[index.html\](images\index.html)]: 
+[]: ./images/landing-page.png
 
 
 
 ### Example Query
 
-[]: !example-query(mages\example-query.PNG)
+[]: ./images/example-query.png
 
 
 
 ### Example Query NA
 
-[]: !example-failed(images\example-failed.PNG)
+[]: ./images/example-failed.png
 
 
 
